@@ -1,4 +1,6 @@
 ﻿/*
+// version added by gcu, quick fix for drupal 'The version of CKEditor could not be detected' problem
+version:'4.5.7',revision:'e98277f'
 Copyright (c) 2003-2016, CKSource - Frederico Knabben. All rights reserved.
 For licensing, see LICENSE.md or http://ckeditor.com/license
 */
